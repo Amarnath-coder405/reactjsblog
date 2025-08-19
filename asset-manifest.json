@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactjsblog/static/css/main.0f7382fc.css",
+    "main.js": "/reactjsblog/static/js/main.6f388e0a.js",
+    "static/media/input.png": "/reactjsblog/static/media/input.c8950e9864bba405ea41.png",
+    "static/media/b5.jpg": "/reactjsblog/static/media/b5.979b5e2fde99ac4e4e54.jpg",
+    "static/media/my-account.jpg": "/reactjsblog/static/media/my-account.b60f4f583f3603323573.jpg",
+    "static/media/slick.svg": "/reactjsblog/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/reactjsblog/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/reactjsblog/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/reactjsblog/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/reactjsblog/index.html",
+    "main.0f7382fc.css.map": "/reactjsblog/static/css/main.0f7382fc.css.map",
+    "main.6f388e0a.js.map": "/reactjsblog/static/js/main.6f388e0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f7382fc.css",
+    "static/js/main.6f388e0a.js"
+  ]
+}
