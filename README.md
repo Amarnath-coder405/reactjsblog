@@ -1,7 +1,5 @@
-
-
 ReactBlog Website:
-=============
+==================
 1.Designed and created a functional blog website using HTML, CSS,and JavaScript.
 2.Designed a clean and visually appealing layout for blog and CSS to style blog's appearance. 
 3.Created three blog posts each post contains title, content, date of publications, image.
